@@ -1,0 +1,11 @@
+working_dir: preprocessing_data
+recsys_data: /data/mdaniluk/recsys2021/data
+validation_part: /data/mdaniluk/recsys_final_code/validation_data/part-00000
+max_n_parts: 2
+max_n_parts_in_memory: 2
+authors_similarity_top_N: 10
+authors_similarity_threshold: 0.1
+validation_percentage: 0.1
+num_validation_chunks: 10
+sketch_width: 256
+sketch_depth: 20
